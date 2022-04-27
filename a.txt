@@ -1,0 +1,8 @@
+1) create repository 
+2) open command prompt 
+3) git init -git initialization of local repository
+4) git commit -m "any message" - Bring the file into staging area
+5) git add . -Adding files in local repository
+
+This is on github
+6)
